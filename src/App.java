@@ -17,5 +17,7 @@ public class App {
         int num2 = 4;
         int total2 = num1 - num2;
 
+        System.out.println("Total: "+ total2);
+
     }
 }
