@@ -19,5 +19,7 @@ public class App {
 
         System.out.println("Total: "+ total2);
 
+        
+
     }
 }
