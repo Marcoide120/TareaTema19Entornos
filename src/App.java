@@ -21,5 +21,10 @@ public class App {
 
         //multi
 
+        int nu1 = 8;
+        int nu2 = 4;
+        int total3 = nu1 - nu2;
+
+        System.out.println("Total: "+ total3);
     }
 }
